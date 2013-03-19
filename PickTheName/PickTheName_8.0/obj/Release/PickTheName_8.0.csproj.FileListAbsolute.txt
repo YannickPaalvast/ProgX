@@ -1,0 +1,9 @@
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\App.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\ActiveName.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\DeleteName.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\HelpPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\MainPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\NamePage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\PickTheName_8.0.g.resources
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\PickTheName_8._0.Resources.AppResources.resources
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_8.0\obj\Release\PickTheName_8.0.csproj.GenerateResource.Cache

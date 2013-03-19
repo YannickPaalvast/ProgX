@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PickTheName_8.0" EntryPointType="PickTheName_8._0.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PickTheName_8.0" Source="PickTheName_8.0.dll" />
+    <AssemblyPart x:Name="PickTheName_db" Source="PickTheName_db.dll" />
+    <AssemblyPart x:Name="SilverlightPhoneDatabase" Source="SilverlightPhoneDatabase.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,15 @@
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\App.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\MainPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\PickTheName_db.g.resources
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\ApplicationIcon.png
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\Background.png
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\PickTheName_db.dll
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\PickTheName_db.pdb
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\AppManifest.xaml
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\PickTheName_db.xap
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\SilverlightPhoneDatabase.pdb
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\Bin\Debug\SilverlightPhoneDatabase.xml
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\PickTheName_db.dll
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\PickTheName_db.pdb
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\XapCacheFile.xml
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Debug\PickTheName_db.csprojResolveAssemblyReference.cache

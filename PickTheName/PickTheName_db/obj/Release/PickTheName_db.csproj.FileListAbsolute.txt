@@ -1,0 +1,3 @@
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Release\App.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Release\MainPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName_db\obj\Release\PickTheName_db.g.resources

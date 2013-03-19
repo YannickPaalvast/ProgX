@@ -1,0 +1,7 @@
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\App.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\ActiveName.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\DeleteName.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\HelpPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\MainPage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\NamePage.g.cs
+C:\Users\yannick\Documents\win-dev-app\trunk\PickTheName\PickTheName\obj\Release\PickTheName.g.resources
